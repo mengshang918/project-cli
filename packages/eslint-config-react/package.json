@@ -1,0 +1,39 @@
+{
+  "name": "@ms/eslint-config-react",
+  "version": "1.0.0",
+  "description": "通用eslint规范",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": {
+    "name": "mengshang918",
+    "email": "1446269124@qq.com",
+    "url": "https://mengshang918.github.io/blog/"
+  },
+  "homepage": "",
+  "license": "MIT",
+  "main": "src/index.js",
+  "directories": {
+    "src": "src"
+  },
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mengshang918/project-cli.git"
+  },
+  "peerDependencies": {
+    "eslint": "7.x"
+  },
+  "dependencies": {
+    "eslint-config-react-app": "^6.0.0"
+  },
+  "scripts": {
+    "link": "yarn link"
+  }
+}

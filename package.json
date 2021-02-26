@@ -1,0 +1,65 @@
+{
+  "name": "@ms/project-cli",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "babel-eslint": "^10.0.0",
+    "commitizen": "^4.2.2",
+    "cz-conventional-changelog": "^3.3.0",
+    "eslint": "^7.5.0",
+    "eslint-plugin-node": "^11.1.0",
+    "husky": "^4.3.0",
+    "lerna": "^3.22.1",
+    "lint-staged": "^10.5.2",
+    "prettier": "^2.2.1"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "author": {
+    "name": "mengshang918",
+    "email": "1446269124@qq.com",
+    "url": "https://mengshang918.github.io/blog/"
+  },
+  "homepage": "",
+  "license": "MIT",
+  "scripts": {
+    "cz": "cz",
+    "prettier": "prettier --write .",
+    "eslint": "eslint --fix ."
+  },
+  "keywords": [],
+  "dependencies": {},
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "lint-staged"
+    }
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "prettier": {
+    "useTabs": false,
+    "indent": 2,
+    "tabWidth": 2,
+    "endOfLine": "lf",
+    "insertFinalNewline": true,
+    "semi": false,
+    "singleQuote": true
+  },
+  "lint-staged": {
+    "*.{tsx,ts,jsx,js}": [
+      "eslint --fix",
+      "prettier --write ."
+    ],
+    "*.md": [
+      "prettier --write ."
+    ]
+  }
+}

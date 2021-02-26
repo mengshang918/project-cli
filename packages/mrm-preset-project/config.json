@@ -1,0 +1,21 @@
+{
+  "aliases": {
+    "default": [
+      "gitignore",
+      "package",
+      "editorconfig",
+      "npmrc",
+      "browserlist",
+      "readme",
+      "license1",
+      "husky",
+      "cz",
+      "prettier",
+      "eslint",
+      "lint-staged"
+    ]
+  },
+  "indent": 2,
+  "registry": "https://registry.yarnpkg.com/",
+  "scope": "ms"
+}

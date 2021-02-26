@@ -1,0 +1,48 @@
+{
+  "name": "@ms/mrm-preset-project",
+  "version": "1.0.0",
+  "description": "mrm预设",
+  "keywords": [
+    "mrm",
+    "mrm-task",
+    "mrm-preset",
+    "rc"
+  ],
+  "author": {
+    "name": "mengshang918",
+    "email": "1446269124@qq.com",
+    "url": "https://mengshang918.github.io/blog/"
+  },
+  "homepage": "",
+  "license": "MIT",
+  "main": "config.json",
+  "files": [
+    "config.json",
+    "*/index.js"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mengshang918/project-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@ms/mrm-task-branchclear": "1.0.0",
+    "@ms/mrm-task-browserlist": "1.0.0",
+    "@ms/mrm-task-cz": "1.0.0",
+    "@ms/mrm-task-editorconfig": "1.0.0",
+    "@ms/mrm-task-eslint": "1.0.0",
+    "@ms/mrm-task-gitignore": "1.0.0",
+    "@ms/mrm-task-husky": "1.0.0",
+    "@ms/mrm-task-license": "1.0.0",
+    "@ms/mrm-task-lint-staged": "1.0.0",
+    "@ms/mrm-task-npmrc": "1.0.0",
+    "@ms/mrm-task-package": "1.0.0",
+    "@ms/mrm-task-prettier": "1.0.0",
+    "@ms/mrm-task-readme": "1.0.0"
+  }
+}

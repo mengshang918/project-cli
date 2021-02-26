@@ -1,0 +1,41 @@
+{
+  "name": "@ms/mrm-task-package",
+  "version": "1.0.0",
+  "description": "mrm task创建package.json",
+  "keywords": [
+    "mrm",
+    "mrm-task",
+    "package"
+  ],
+  "author": {
+    "name": "mengshang918",
+    "email": "1446269124@qq.com",
+    "url": "https://mengshang918.github.io/blog/"
+  },
+  "homepage": "",
+  "license": "MIT",
+  "main": "src/index.js",
+  "directories": {
+    "src": "src"
+  },
+  "files": [
+    "src"
+  ],
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mengshang918/project-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "mrm-core": "^4.3.0",
+    "user-meta": "^1.0.0"
+  }
+}

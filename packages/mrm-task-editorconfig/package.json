@@ -1,0 +1,34 @@
+{
+  "name": "@ms/mrm-task-editorconfig",
+  "version": "1.0.0",
+  "description": "mrm 编辑器设置",
+  "keywords": [
+    "mrm",
+    "mrm-task",
+    "editorconfig"
+  ],
+  "author": {
+    "name": "mengshang918",
+    "email": "1446269124@qq.com",
+    "url": "https://mengshang918.github.io/blog/"
+  },
+  "homepage": "",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mengshang918/project-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "mrm-core": "^4.3.0"
+  }
+}

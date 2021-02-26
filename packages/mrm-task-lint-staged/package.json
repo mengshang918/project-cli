@@ -1,0 +1,39 @@
+{
+  "name": "@ms/mrm-task-lint-staged",
+  "version": "1.0.0",
+  "description": "mrm task 创建lint-staged",
+  "keywords": [
+    "mrm",
+    "mrm-task",
+    "lint-staged"
+  ],
+  "author": {
+    "name": "mengshang918",
+    "email": "1446269124@qq.com",
+    "url": "https://mengshang918.github.io/blog/"
+  },
+  "homepage": "",
+  "license": "MIT",
+  "main": "src/index.js",
+  "directories": {
+    "src": "src"
+  },
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mengshang918/project-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@ms/mrm-task-husky": "1.0.0",
+    "has-yarn": "^2.1.0",
+    "mrm-core": "^4.3.0"
+  }
+}
