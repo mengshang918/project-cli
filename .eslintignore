@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+**/node_modules
+.DS_Store
+*.log
+yarn.lock
+packages/**/lib
+packages/**/dist
+packages/**/test
+packages/**/types
+**/dist
+coverage
+website
