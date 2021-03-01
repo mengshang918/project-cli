@@ -1,6 +1,6 @@
 {
   "name": "@ms918/mrm-task-readme",
-  "version": "0.1.1",
+  "version": "0.5.0",
   "description": "mrm task设置readme",
   "keywords": [
     "mrm",
@@ -33,5 +33,6 @@
   },
   "dependencies": {
     "mrm-core": "^4.3.0"
-  }
+  },
+  "gitHead": "b9385f6d359acb9b01ce7995d1c6e3a867b80932"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@ms918/mrm-task-cz",
-  "version": "0.1.1",
+  "version": "0.5.0",
   "description": "mrm task创建cz配置",
   "keywords": [
     "mrm",
@@ -34,8 +34,9 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@ms918/mrm-task-husky": "^0.1.1",
+    "@ms918/mrm-task-husky": "^0.5.0",
     "has-yarn": "^2.1.0",
     "mrm-core": "^4.3.0"
-  }
+  },
+  "gitHead": "b9385f6d359acb9b01ce7995d1c6e3a867b80932"
 }

@@ -29,10 +29,10 @@
   "scripts": {
     "cz": "cz",
     "prettier": "prettier --write .",
-    "eslint": "eslint --fix ."
+    "eslint": "eslint --fix .",
+    "lerna": "lerna"
   },
   "keywords": [],
-  "dependencies": {},
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
