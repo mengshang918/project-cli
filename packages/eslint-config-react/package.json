@@ -1,6 +1,6 @@
 {
   "name": "@ms918/eslint-config-react",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "通用eslint规范",
   "keywords": [
     "eslint",
