@@ -1,6 +1,6 @@
 {
   "name": "@ms918/mrm-task-eslint",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "mrm task 配置lint-staged",
   "keywords": [
     "mrm",
