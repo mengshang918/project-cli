@@ -17,5 +17,6 @@
   },
   "indent": 2,
   "registry": "https://registry.yarnpkg.com/",
-  "scope": "ms"
+  "scope": "ms",
+  "test":"test"
 }
