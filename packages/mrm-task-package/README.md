@@ -32,7 +32,7 @@
 ## 用法
 
 ```powershell
-jnpm install -g @ms918/mrm-task-package
+npm install -g @ms918/mrm-task-package
 mrm @ms918/mrm-task-package
 ```
 

@@ -17,7 +17,7 @@ registry=https://registry.yarnpkg.com/
 ## 用法
 
 ```powershell
-jnpm install -g @ms918/mrm-task-npmrc
+npm install -g @ms918/mrm-task-npmrc
 mrm @ms918/mrm-task-npmrc
 ```
 

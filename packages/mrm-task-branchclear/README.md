@@ -23,7 +23,7 @@ user:
 ## 用法
 
 ```powershell
-jnpm install -g @ms918/mrm-task-branchclear
+npm install -g @ms918/mrm-task-branchclear
 mrm @ms918/mrm-task-branchclear
 ```
 

@@ -38,7 +38,7 @@ module.exports = { extends: ['@commitlint/config-conventional'] }
 ## 用法
 
 ```powershell
-jnpm install -g @ms918/mrm-task-cz
+npm install -g @ms918/mrm-task-cz
 mrm @ms918/mrm-task-cz
 ```
 

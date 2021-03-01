@@ -23,7 +23,7 @@
 ## 用法
 
 ```powershell
-jnpm install -g @ms918/mrm-task-prettier
+npm install -g @ms918/mrm-task-prettier
 mrm @ms918/mrm-task-prettier
 ```
 

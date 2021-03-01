@@ -23,7 +23,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## 用法
 
 ```powershell
-jnpm install -g @ms918/mrm-task-license
+npm install -g @ms918/mrm-task-license
 mrm @ms918/mrm-task-license
 ```
 

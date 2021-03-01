@@ -28,6 +28,6 @@ indent 默认为 2 个空格
 ## 用法
 
 ```powershell
-jnpm install -g @ms918/mrm-task-editorconfig
+npm install -g @ms918/mrm-task-editorconfig
 mrm @ms918/mrm-task-editorconfig
 ```

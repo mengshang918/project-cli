@@ -15,7 +15,7 @@
 ## 用法
 
 ```powershell
-jnpm install -g @ms918/mrm-task-eslint
+npm install -g @ms918/mrm-task-eslint
 mrm @ms918/mrm-task-eslint
 ```
 

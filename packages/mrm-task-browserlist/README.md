@@ -18,7 +18,7 @@
 ## 用法
 
 ```powershell
-jnpm install -g @ms918/mrm-task-browserlist
+npm install -g @ms918/mrm-task-browserlist
 mrm @ms918/mrm-task-browserlist
 ```
 

@@ -15,7 +15,7 @@
 ## 用法
 
 ```powershell
-jnpm install -g @ms918/mrm-task-husky
+npm install -g @ms918/mrm-task-husky
 mrm @ms918/mrm-task-husky
 ```
 

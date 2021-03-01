@@ -65,7 +65,7 @@
 ## 用法
 
 ```powershell
-jnpm install -g @ms918/mrm-task-lint-staged
+npm install -g @ms918/mrm-task-lint-staged
 mrm @ms918/mrm-task-lint-staged
 ```
 

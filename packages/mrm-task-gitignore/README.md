@@ -19,7 +19,7 @@ node_modules/
 ## 用法
 
 ```powershell
-jnpm install -g @ms918/mrm-task-gitignore
+npm install -g @ms918/mrm-task-gitignore
 mrm @ms918/mrm-task-gitignore
 ```
 
