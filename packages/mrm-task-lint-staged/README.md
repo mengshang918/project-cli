@@ -1,6 +1,6 @@
-# `@ms/mrm-task-lint-staged`
+# `@ms918/mrm-task-lint-staged`
 
-> mrm task,用来配置`lint-staged`,可选 eslint 和 prettier（需要配合@ms/mrm-task-eslint、@ms/mrm-task-prettier）
+> mrm task,用来配置`lint-staged`,可选 eslint 和 prettier（需要配合@ms918/mrm-task-eslint、@ms918/mrm-task-prettier）
 
 创建的默认`package.json`字段如下
 
@@ -65,13 +65,13 @@
 ## 用法
 
 ```powershell
-jnpm install -g @ms/mrm-task-lint-staged
-mrm @ms/mrm-task-lint-staged
+jnpm install -g @ms918/mrm-task-lint-staged
+mrm @ms918/mrm-task-lint-staged
 ```
 
 当执行的时候，会走下面步骤：
 
-1. 执行`@ms/mrm-task-husky`步骤
+1. 执行`@ms918/mrm-task-husky`步骤
 2. 判断`husky.pre-commit`是否有脚本
    1. 有，则设置`husky.pre-commit`为`之前脚本 && lint-staged`
    2. 无，则设置`husky.pre-commit`为`lint-staged`

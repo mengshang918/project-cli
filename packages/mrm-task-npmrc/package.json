@@ -1,5 +1,5 @@
 {
-  "name": "@ms/mrm-task-npmrc",
+  "name": "@ms918/mrm-task-npmrc",
   "version": "1.0.0",
   "description": "mrm创建.npmrc的task",
   "keywords": [

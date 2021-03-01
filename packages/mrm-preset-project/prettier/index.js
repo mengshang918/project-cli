@@ -1,1 +1,1 @@
-module.exports = require('@ms/mrm-task-prettier')
+module.exports = require('@ms918/mrm-task-prettier')

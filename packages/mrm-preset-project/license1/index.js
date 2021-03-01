@@ -1,1 +1,1 @@
-module.exports = require('@ms/mrm-task-license')
+module.exports = require('@ms918/mrm-task-license')

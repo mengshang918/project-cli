@@ -1,4 +1,4 @@
-# `@ms/mrm-task-browserlist`
+# `@ms918/mrm-task-browserlist`
 
 > mrm task,用来创建[browserlist](https://github.com/browserslist/browserslist)
 
@@ -18,8 +18,8 @@
 ## 用法
 
 ```powershell
-jnpm install -g @ms/mrm-task-browserlist
-mrm @ms/mrm-task-browserlist
+jnpm install -g @ms918/mrm-task-browserlist
+mrm @ms918/mrm-task-browserlist
 ```
 
 当执行的时候，会走下面步骤：

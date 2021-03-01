@@ -1,4 +1,4 @@
-# `@ms/mrm-task-npmrc`
+# `@ms918/mrm-task-npmrc`
 
 > mrm task,用来创建.npmrc
 
@@ -17,8 +17,8 @@ registry=https://registry.yarnpkg.com/
 ## 用法
 
 ```powershell
-jnpm install -g @ms/mrm-task-npmrc
-mrm @ms/mrm-task-npmrc
+jnpm install -g @ms918/mrm-task-npmrc
+mrm @ms918/mrm-task-npmrc
 ```
 
 当执行的时候，会走下面步骤：

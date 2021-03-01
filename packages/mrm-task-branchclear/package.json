@@ -1,5 +1,5 @@
 {
-  "name": "@ms/mrm-task-branchclear",
+  "name": "@ms918/mrm-task-branchclear",
   "version": "1.0.0",
   "description": "mrm branchclear任务",
   "keywords": [
@@ -26,7 +26,7 @@
     "url": "https://github.com/mengshang918/project-cli.git"
   },
   "dependencies": {
-    "@ms/mrm-task-husky": "1.0.0",
+    "@ms918/mrm-task-husky": "1.0.0",
     "mrm-core": "^4.3.0",
     "user-meta": "^1.0.0"
   }

@@ -1,1 +1,1 @@
-module.exports = require('@ms/mrm-task-husky')
+module.exports = require('@ms918/mrm-task-husky')

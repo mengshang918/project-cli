@@ -1,4 +1,4 @@
-# `@ms/mrm-task-gitignore
+# `@ms918/mrm-task-gitignore
 
 > mrm task,用来创建`.gitignore`
 
@@ -19,8 +19,8 @@ node_modules/
 ## 用法
 
 ```powershell
-jnpm install -g @ms/mrm-task-gitignore
-mrm @ms/mrm-task-gitignore
+jnpm install -g @ms918/mrm-task-gitignore
+mrm @ms918/mrm-task-gitignore
 ```
 
 当执行的时候，会走下面步骤：

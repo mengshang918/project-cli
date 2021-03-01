@@ -1,4 +1,4 @@
-# `@ms/mrm-task-branchclear`
+# `@ms918/mrm-task-branchclear`
 
 > mrm task,用来配置 branchclear
 
@@ -23,8 +23,8 @@ user:
 ## 用法
 
 ```powershell
-jnpm install -g @ms/mrm-task-branchclear
-mrm @ms/mrm-task-branchclear
+jnpm install -g @ms918/mrm-task-branchclear
+mrm @ms918/mrm-task-branchclear
 ```
 
 当执行的时候，会走下面步骤：

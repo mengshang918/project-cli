@@ -1,1 +1,1 @@
-module.exports = require('@ms/mrm-task-lint-staged')
+module.exports = require('@ms918/mrm-task-lint-staged')

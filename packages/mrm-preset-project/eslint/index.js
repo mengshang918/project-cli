@@ -1,1 +1,1 @@
-module.exports = require('@ms/mrm-task-eslint')
+module.exports = require('@ms918/mrm-task-eslint')

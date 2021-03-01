@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 const { json, install } = require('mrm-core')
-const initHusky = require('@ms/mrm-task-husky')
+const initHusky = require('@ms918/mrm-task-husky')
 const hasYarn = require('has-yarn')
 module.exports.description = '新增 lint-staged'
 

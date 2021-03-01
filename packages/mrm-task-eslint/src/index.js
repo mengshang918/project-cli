@@ -4,7 +4,7 @@ const hasYarn = require('has-yarn')
 const execa = require('execa')
 module.exports.description = '新增 eslint'
 
-const eslintConfigName = '@ms/eslint-config-react'
+const eslintConfigName = '@ms918/eslint-config-react'
 
 module.exports = () => {
   let peerDependencies = execa.commandSync(

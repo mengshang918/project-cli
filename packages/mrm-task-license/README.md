@@ -1,4 +1,4 @@
-# `@ms/mrm-task-license
+# `@ms918/mrm-task-license
 
 > mrm task,用来创建`LICENSE`
 
@@ -23,8 +23,8 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## 用法
 
 ```powershell
-jnpm install -g @ms/mrm-task-license
-mrm @ms/mrm-task-license
+jnpm install -g @ms918/mrm-task-license
+mrm @ms918/mrm-task-license
 ```
 
 当执行的时候，会走下面步骤：

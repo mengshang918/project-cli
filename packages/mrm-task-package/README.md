@@ -1,4 +1,4 @@
-# `@ms/mrm-task-package`
+# `@ms918/mrm-task-package`
 
 > mrm task,用来配置`package`
 
@@ -32,8 +32,8 @@
 ## 用法
 
 ```powershell
-jnpm install -g @ms/mrm-task-package
-mrm @ms/mrm-task-package
+jnpm install -g @ms918/mrm-task-package
+mrm @ms918/mrm-task-package
 ```
 
 当执行的时候，会走下面步骤：

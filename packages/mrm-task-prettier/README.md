@@ -1,4 +1,4 @@
-# `@ms/mrm-task-prettier`
+# `@ms918/mrm-task-prettier`
 
 > mrm task,用来创建`package.json`的`prettier`字段
 
@@ -23,8 +23,8 @@
 ## 用法
 
 ```powershell
-jnpm install -g @ms/mrm-task-prettier
-mrm @ms/mrm-task-prettier
+jnpm install -g @ms918/mrm-task-prettier
+mrm @ms918/mrm-task-prettier
 ```
 
 当执行的时候，会走下面步骤：

@@ -1,5 +1,5 @@
 {
-  "name": "@ms/mrm-preset-project",
+  "name": "@ms918/mrm-preset-project",
   "version": "1.0.0",
   "description": "mrm预设",
   "keywords": [
@@ -31,18 +31,18 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@ms/mrm-task-branchclear": "1.0.0",
-    "@ms/mrm-task-browserlist": "1.0.0",
-    "@ms/mrm-task-cz": "1.0.0",
-    "@ms/mrm-task-editorconfig": "1.0.0",
-    "@ms/mrm-task-eslint": "1.0.0",
-    "@ms/mrm-task-gitignore": "1.0.0",
-    "@ms/mrm-task-husky": "1.0.0",
-    "@ms/mrm-task-license": "1.0.0",
-    "@ms/mrm-task-lint-staged": "1.0.0",
-    "@ms/mrm-task-npmrc": "1.0.0",
-    "@ms/mrm-task-package": "1.0.0",
-    "@ms/mrm-task-prettier": "1.0.0",
-    "@ms/mrm-task-readme": "1.0.0"
+    "@ms918/mrm-task-branchclear": "1.0.0",
+    "@ms918/mrm-task-browserlist": "1.0.0",
+    "@ms918/mrm-task-cz": "1.0.0",
+    "@ms918/mrm-task-editorconfig": "1.0.0",
+    "@ms918/mrm-task-eslint": "1.0.0",
+    "@ms918/mrm-task-gitignore": "1.0.0",
+    "@ms918/mrm-task-husky": "1.0.0",
+    "@ms918/mrm-task-license": "1.0.0",
+    "@ms918/mrm-task-lint-staged": "1.0.0",
+    "@ms918/mrm-task-npmrc": "1.0.0",
+    "@ms918/mrm-task-package": "1.0.0",
+    "@ms918/mrm-task-prettier": "1.0.0",
+    "@ms918/mrm-task-readme": "1.0.0"
   }
 }

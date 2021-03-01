@@ -8,7 +8,7 @@
  */
 const { json, install, lines, packageJson } = require('mrm-core')
 const hasYarn = require('has-yarn')
-const initHusky = require('@ms/mrm-task-husky')
+const initHusky = require('@ms918/mrm-task-husky')
 module.exports.description = '新增 commitlint和commitizen'
 
 const useYarn = hasYarn(process.cwd())

@@ -1,4 +1,4 @@
-# @ms/mrm-task-cz
+# @ms918/mrm-task-cz
 
 > mrm task,用来创建`commitlint`和`commitizen`配置
 
@@ -38,13 +38,13 @@ module.exports = { extends: ['@commitlint/config-conventional'] }
 ## 用法
 
 ```powershell
-jnpm install -g @ms/mrm-task-cz
-mrm @ms/mrm-task-cz
+jnpm install -g @ms918/mrm-task-cz
+mrm @ms918/mrm-task-cz
 ```
 
 当执行的时候，会走下面步骤：
 
-1. 执行`@ms/mrm-task-husky`操作
+1. 执行`@ms918/mrm-task-husky`操作
 2. 配置`commilint`
    1. 使用`yarn` or `npm`安装`@commitlint/config-conventional`、`@commitlint/cli`
    2. 创建或覆盖`commitlint.config.js`文件

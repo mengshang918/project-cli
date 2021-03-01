@@ -1,1 +1,1 @@
-module.exports = require('@ms/mrm-task-readme')
+module.exports = require('@ms918/mrm-task-readme')

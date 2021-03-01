@@ -1,1 +1,1 @@
-module.exports = require('@ms/mrm-task-editorconfig')
+module.exports = require('@ms918/mrm-task-editorconfig')

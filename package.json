@@ -1,5 +1,5 @@
 {
-  "name": "@ms/project-cli",
+  "name": "@ms918/project-cli",
   "private": true,
   "workspaces": [
     "packages/*"

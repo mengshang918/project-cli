@@ -9,7 +9,7 @@
 ```
 {
   "eslintConfig": {
-    "extends": "@ms/eslint-config-react"
+    "extends": "@ms918/eslint-config-react"
   },
 }
 ```

@@ -1,4 +1,4 @@
-# `@ms/mrm-task-readme`
+# `@ms918/mrm-task-readme`
 
 > mrm task,用来创建`README.md`
 
@@ -21,8 +21,8 @@ some api ...
 ## 用法
 
 ```powershell
-jnpm install -g @ms/mrm-task-readme
-mrm @ms/mrm-task-readme
+jnpm install -g @ms918/mrm-task-readme
+mrm @ms918/mrm-task-readme
 ```
 
 当执行的时候，会走下面步骤：

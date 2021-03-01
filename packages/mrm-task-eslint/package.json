@@ -1,5 +1,5 @@
 {
-  "name": "@ms/mrm-task-eslint",
+  "name": "@ms918/mrm-task-eslint",
   "version": "1.0.0",
   "description": "mrm task 配置lint-staged",
   "keywords": [

@@ -1,4 +1,4 @@
-# `@ms/mrm-task-editorconfig`
+# `@ms918/mrm-task-editorconfig`
 
 > mrm task,用来创建.editorconfig
 
@@ -28,6 +28,6 @@ indent 默认为 2 个空格
 ## 用法
 
 ```powershell
-jnpm install -g @ms/mrm-task-editorconfig
-mrm @ms/mrm-task-editorconfig
+jnpm install -g @ms918/mrm-task-editorconfig
+mrm @ms918/mrm-task-editorconfig
 ```

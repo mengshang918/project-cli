@@ -1,4 +1,4 @@
-const initHusky = require('@ms/mrm-task-husky')
+const initHusky = require('@ms918/mrm-task-husky')
 const { json, packageJson, yaml } = require('mrm-core')
 const { name } = require('user-meta')
 

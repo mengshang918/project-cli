@@ -1,4 +1,4 @@
-# @ms/mrm-task-husky
+# @ms918/mrm-task-husky
 
 > mrm task,用来创建`husky`配置
 
@@ -15,8 +15,8 @@
 ## 用法
 
 ```powershell
-jnpm install -g @ms/mrm-task-husky
-mrm @ms/mrm-task-husky
+jnpm install -g @ms918/mrm-task-husky
+mrm @ms918/mrm-task-husky
 ```
 
 当执行的时候，会走下面步骤：
