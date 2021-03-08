@@ -24,6 +24,6 @@ jobs:
           git config --global user.name mengshang918
           git config --global user.email 1446269124@qq.com
       - name: lerna version
-        run: yarn lerna version --yes --conventional-commits --amend --create-release github
+        run: yarn lerna version --yes --conventional-commits
       - name: lerna publish
         run: yarn lerna publish from-package --yes --no-verify-access
