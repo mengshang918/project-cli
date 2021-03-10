@@ -9,5 +9,8 @@
       "message": "chore(release): publish %s"
     }
   },
+  "ignoreChanges":[
+    "*.md"
+  ],
   "version": "0.5.1"
 }
