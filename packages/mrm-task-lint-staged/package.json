@@ -1,6 +1,6 @@
 {
   "name": "@ms918/mrm-task-lint-staged",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "mrm task 创建lint-staged",
   "keywords": [
     "mrm",
@@ -32,7 +32,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@ms918/mrm-task-husky": "^0.5.1",
+    "@ms918/mrm-task-husky": "^0.5.2",
     "has-yarn": "^2.1.0",
     "mrm-core": "^4.3.0"
   },
